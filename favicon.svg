@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B3440"/>
+      <stop offset="1" stop-color="#0D1920"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <!-- baris catatan (log) -->
+  <rect x="11" y="17" width="17" height="5" rx="2.5" fill="#F1F5F4"/>
+  <rect x="11" y="29.5" width="13" height="5" rx="2.5" fill="#F1F5F4" opacity=".75"/>
+  <rect x="11" y="42" width="17" height="5" rx="2.5" fill="#F1F5F4" opacity=".5"/>
+  <!-- petir -->
+  <path d="M42 8 L29 36 H38.5 L34 56 L53 26 H43 L48.5 8 Z" fill="#F2C230"/>
+</svg>
